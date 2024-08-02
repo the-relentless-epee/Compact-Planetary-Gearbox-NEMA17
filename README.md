@@ -15,6 +15,6 @@ A compact, fully 3D printed 4:1 planetary gearbox for a NEMA17 stepper motor. Us
     if using engineering materials like ABS, ASA or PA, make sure the print quality is still good to ensure tolerance
 
 ## BOM:
-- 2 M3$\times$16mm screws
-- 2 M3$\times$6mm screws
-- Optional: M3$\times$5mm heat set inserts
+- 2 M3x16mm screws
+- 2 M3x6mm screws
+- Optional: M3x5mm heat set inserts
