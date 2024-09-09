@@ -1,6 +1,11 @@
 # Compact-Planetary-Gearbox-NEMA17
 A compact, fully 3D printed 4:1 planetary gearbox for a NEMA17 stepper motor. Uses **no hardware except for 4 screws**.
 
+![Screenshot 2024-08-14 230717](https://github.com/user-attachments/assets/4d8640a1-838c-4ec9-b23a-6b8b3a634866)
+![Screenshot 2024-08-14 230707](https://github.com/user-attachments/assets/b9000c87-f889-4ba2-b89c-58b710d6f2a2)
+
+
+
 ## Features:
 - Optimized for FDM printing (minimal supports & <45 degree overhangs)
 - no extra hardware like bearings needed
